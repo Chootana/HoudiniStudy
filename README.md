@@ -7,3 +7,8 @@ WIP
 
 # #45 Avatar Modifications
 ![blendshape_test](/misc/blendshape_test.gif)
+
+# 46 Japanese Architecture
+- tatami generator 
+
+    ![tatami](https://user-images.githubusercontent.com/44863813/183289727-fe2af06c-7d9c-4798-90c8-a2052cb70d8a.gif)
