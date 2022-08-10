@@ -11,4 +11,5 @@ WIP
 # 46 Japanese Architecture
 - tatami generator 
 
-    ![tatami](https://user-images.githubusercontent.com/44863813/183289727-fe2af06c-7d9c-4798-90c8-a2052cb70d8a.gif)
+    ![tatami_layout](https://user-images.githubusercontent.com/44863813/183929783-6e52075e-66e2-4bec-bd48-81038b54724a.gif)
+
