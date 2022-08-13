@@ -13,3 +13,6 @@ WIP
 
     ![tatami_layout](https://user-images.githubusercontent.com/44863813/183929783-6e52075e-66e2-4bec-bd48-81038b54724a.gif)
 
+- shoji generator + shoji layout 
+
+    ![tatami_layout](https://user-images.githubusercontent.com/44863813/184494101-3ad3d823-81e0-4ba7-a4be-8dfe30bf6df4.gif)
