@@ -16,3 +16,9 @@ WIP
 - shoji generator + shoji layout 
 
     ![tatami_layout](https://user-images.githubusercontent.com/44863813/184494101-3ad3d823-81e0-4ba7-a4be-8dfe30bf6df4.gif)
+
+# 53 Array
+- Spider Robot 
+
+    ![spider_robot](https://user-images.githubusercontent.com/44863813/211205655-2cd207fe-b90b-4f46-ab80-f80cdade6c78.png)
+
