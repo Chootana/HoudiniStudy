@@ -22,3 +22,8 @@ WIP
 
     ![spider_robot](https://user-images.githubusercontent.com/44863813/211205655-2cd207fe-b90b-4f46-ab80-f80cdade6c78.png)
 
+
+# 54 Animation
+- Humnan. (Chain)
+
+    ![human_chain](https://user-images.githubusercontent.com/44863813/216829118-d4dc9fe5-02f2-4be6-81e9-2854e368a1bd.png)
