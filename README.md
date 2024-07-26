@@ -33,5 +33,4 @@ WIP
 
 
 # 89 COP
-
-    ![chalk_glitch_comparison](/misc/chalk_glitch_comparison_v2.png)
+![test](/misc/blendshape_test.gif)
