@@ -1,8 +1,6 @@
 # Houdini Study in VRChat
 
 
-# 89 COP
-
 # #44 remains
 WIP 
 
