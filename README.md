@@ -1,5 +1,8 @@
 # Houdini Study in VRChat
 
+
+# 89 COP
+
 # #44 remains
 WIP 
 
@@ -27,3 +30,8 @@ WIP
 - Humnan. (Chain)
 
     ![human_chain](https://user-images.githubusercontent.com/44863813/216829118-d4dc9fe5-02f2-4be6-81e9-2854e368a1bd.png)
+
+
+# 89 COP
+
+    ![chalk_glitch_comparison](/misc/chalk_glitch_comparison_v2.png)
